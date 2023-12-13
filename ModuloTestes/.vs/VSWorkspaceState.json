@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Calculadora",
+    "\\CalculadoraTestes",
+    "\\CalculadoraTestes\\bin",
+    "\\CalculadoraTestes\\bin\\Debug\\net8.0",
+    "\\CalculadoraTestes\\obj",
+    "\\CalculadoraTestes\\obj\\Debug",
+    "\\CalculadoraTestes\\obj\\Debug\\net8.0",
+    "\\Calculadora\\Services"
+  ],
+  "SelectedNode": "\\CalculadoraTestes\\obj\\CalculadoraTestes.csproj.nuget.dgspec.json",
+  "PreviewInSolutionExplorer": false
+}
